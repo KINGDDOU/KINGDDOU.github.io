@@ -113,11 +113,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "또우"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "I am KINGDDOU."
+  location         : "DDOU's House in South Korea"
+  email            : "It's a Secret"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
